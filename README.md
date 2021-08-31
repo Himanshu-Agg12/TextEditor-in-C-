@@ -36,7 +36,7 @@ Implementing a text-editor in itself is not burdensome but equipping it with a s
 </p>
 <hr/>
 
-<h2>Design</h2>
+<h2>Design & Specifications</h2>
 <p>The final product will be neat and user-friendly along with good code readability. Some key design/functionality elements that will be present are listed as follows:</p>
 <ul>
   <li>A Menu Screen</li>
