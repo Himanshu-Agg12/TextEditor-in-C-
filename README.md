@@ -56,7 +56,7 @@ Some technical skills that will definitely be improved are:
 <hr/>
 
 <h2>Further features to add:</h2>
-<p>The main feature of Spell checking feels like a collosal task to implement right now but some additions regarding <strong>Encoding/Decoding</strong> can still be implemented in this project. Since I am not completely equipped with required knowledge on this topic, it can be put up on my to-do list which will be dealt with on some future date.</p>
+<p>The main feature of Spell checking feels like a colossal task to implement right now but some additions regarding <strong>Encoding/Decoding</strong> can still be implemented in this project. Since I am not completely equipped with required knowledge on this topic, it can be put up on my to-do list which will be dealt with on some future date.</p>
 <hr/>
 
 <footer>
