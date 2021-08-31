@@ -49,10 +49,12 @@ Implementing a text-editor in itself is not burdensome but equipping it with a s
 <p>This project will help me to increase my overall knowledge of C language, its working in Linux operating system and further motivate me to do even more extensive projects using this language. It also boosts my self motivation to work as an individual and know my strengths and weaknesses.
 </p>
 Some technical skills that will definitely be improved are:
-<li>File I/O in C.</li>
-<li>Creating and including self defined header files in C.</li>
-<li>Even deeper knowledge of different Data structures and Algorithms.</li>
-<li>Knowledge of different applications of C programming Language.</li></p>
+<ul>
+    <li>File I/O in C.</li>
+    <li>Creating and including self defined header files in C.</li>
+    <li>Even deeper knowledge of different Data structures and Algorithms.</li>
+    <li>Knowledge of different applications of C programming Language.</li></p>
+</ul>
 <hr/>
 
 <h2>Further features to add:</h2>
