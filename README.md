@@ -63,5 +63,5 @@ Some technical skills that will definitely be improved are:
 <p> Cordinated by:<br/>
 <span>Mr. Kumar Gaurav Sir</span><br/>
 <span>Mr.Ritesh Ranjan Sir</span><br/>
-<span>Miss. Anuinder Kaur Mam</span><br/>
+<span>Miss. Anuinder Mam</span><br/>
 </footer>
