@@ -1,0 +1,11 @@
+Here all the logs of the misspelled words will be generate for each time you execute 'c' command.
+
+The logs files will tell you about misspelled word's line number and the word number on that line.
+
+File Name format is as below:
+
+  filename_date_time.txt
+
+Time should be in 24 hour format.
+
+
