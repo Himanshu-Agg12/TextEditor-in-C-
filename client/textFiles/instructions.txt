@@ -1,0 +1,21 @@
+
+
+Please Follow the instructions to use the DevPad text Editor.
+
+			
+1) Rememeber always create a file which is not exist, if you made a file once again the previouslly written data will be overwritten.
+
+2) Read only mode will only show you the file, it will not allowed you to edit the file.
+
+3) Write mode will write in the file you provided, it will create file if not present.
+
+4) Edit mode/append mode will allow you to see the previous content as well as allows you to edit the file.
+
+5) We have a cool feature called spell check which will check your file and highlight all the misspelled words in it.
+
+(Rememeber it will only checks for the alphabetical words which are present in the dictionary.)
+
+                    **We have used the American Standard Dictionary.**
+			
+6)Tell us your experience of using our DevPad by dropping a mail @ aggarwal.himanshu2019@gmail.com.
+
