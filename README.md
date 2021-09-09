@@ -22,26 +22,34 @@ Spell checking is the *caractéristique principale* of DevPad.
 
 <details>
 
-<summary><small>Screencaps of the completed app will be added soon!</small></summary>
+<summary><small>Screencaps of the completed App!</small></summary>
 
 <span>
 
 * Menu
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png"/>
+
 * Write Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/write-mode.png"/>
+
 * Read Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/read-mode.png"/>
+
 * Append Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/append-mode.png"/>
+
 * Check Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/check-mode.png"/>
+
 * Delete Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/delete-mode.png"/>
+
 * List Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/list-mode.png"/>
+
 * PWD - Mode
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/pwd-mode.png"/>
+
 * Logs - Demo
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/log-file.png"/>
 
