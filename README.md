@@ -140,6 +140,22 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 
 ---------------------------------------
 
+### Time-Complexity and Space-complexity of Some functions
+|                  Functions                 | Time Complexity | Space Complexity |
+|--------------------------------------------|-----------------|------------------|
+|load_dictionary()               | O(N)            | O(N*26)             |
+|read() | O(1)            | O(1)             |
+|write() | O(1)            | O(1)             |
+|append()            | O(1)            | O(1)             |
+|check_for_misspells(char* word)             | O(N*M)            | O(N*26)             |
+|delete()          | O(1)            | O(1)             
+
+<br/>
+
+>M is maximum size of word.
+<br/>
+---------------------------------------
+
 ## Learning Outcomes:
 
 This project will help me to increase my overall knowledge of C language, its working in Linux operating system and further motivate me to do even more extensive projects using this language. It also boosts my self motivation to work as an individual and know my strengths and weaknesses.
