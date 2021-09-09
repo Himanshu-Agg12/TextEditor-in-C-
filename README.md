@@ -26,7 +26,7 @@ Spell checking is the *caractéristique principale* of DevPad.
 
 <img  src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png"
 alt = "Menu"
-width="250px"  height="250px"/>
+width="400px"  height="300px"/>
 
 </details>
 
