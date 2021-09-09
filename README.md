@@ -148,14 +148,14 @@ A Menu screen will appear.
 
 #### Read Mode 
    Entered file will be read if file exist else an error message appears.
- >Screenshot of the read mode added in Preview
+ ><a href="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/read-mode.png" text-decoration="none">Screenshot of the read mode added in Preview</a>
 #### Write Mode
    File will open for write, remember if file already exist it will be overwritten.
    Save the file by pressing ' : + *enter-key*'.
- >Screenshot of the write mode added in Preview
+ ><a href="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/write-mode.png" text-decoration="none">Screenshot of the write mode added in Preview</a>
 #### Append Mode
    File will open in append mode, user can add text and save the file by pressing ' : +    *enter-key*'.
- >Screenshot of the append mode added in Preview
+ ><a href="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/append-mode.png" text-decoration="none">Screenshot of the append mode added in Preview</a>
 #### Check Mode
    Entered File will be checked and a logs file will be generated in the ***Logs*** folder it       will tell the user in which ***Line*** and which ***Word*** is incorrect so that user can make correction easily.
    
@@ -168,10 +168,12 @@ A Menu screen will appear.
 
 ##### Format of log file:
 filename_date_time.txt
+
    or
+
 filename_yymmdd_HHMMSS.txt
    
->Screenshot of the Check Mode added in Preview
+><a href="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/check-mode.png" text-decoration="none">Screenshot of the Check Mode added in Preview</a>
  
 Moreover all the modes are self descriptive in itself, further it you need more help you can read description of each mode described in the Instructions file.
 
