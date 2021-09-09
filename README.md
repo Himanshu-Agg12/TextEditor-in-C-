@@ -24,7 +24,6 @@ Spell checking is the *caractéristique principale* of DevPad.
 
 <summary><small>Screencaps of the completed App!</small></summary>
 
-<span>
 
 * Menu
 <img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png"/>
@@ -71,7 +70,6 @@ Spell checking is the *caractéristique principale* of DevPad.
 	
 <hr/>
 	
-</span>
 
 </details>
 
@@ -106,7 +104,7 @@ Run the following commands to use *DevPad.*
 
 #### Compilation
 
-* Traverse to the client directory using: 
+* Open the client directory using: 
     ```C
    cd client
    ```
