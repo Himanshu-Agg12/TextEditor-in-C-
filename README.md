@@ -168,12 +168,12 @@ A Menu screen will appear.
 * Average time to check file.
 * Unloading the dictionary.
 
-   ##### Format of log file:
-   filename_date_time.txt
+##### Format of log file:
+filename_date_time.txt
    or
-   filename_yymmdd_HHMMSS.txt
+filename_yymmdd_HHMMSS.txt
    
-  >Screenshot of the Check Mode added in Preview
+>Screenshot of the Check Mode added in Preview
  
 Moreover all the modes are self descriptive in itself, further it you need more help you can read description of each mode described in the Instructions file.
 
