@@ -84,19 +84,20 @@ Run the following commands to use *DevPad.*
    make clean
    ```
 
-	Now you will see your executable file in the same client with name ***editor***.
+Now you will see your executable file in the same client with name ***editor***.
 
 #### Execution
  
 Run the editor using:
-```C
-./editor
-```
+   ```C
+   ./editor
+   ```
     
 A Menu screen will appear.
 
 ---------------------------------------
-## How to use ?
+
+## How to use DevPad ?
 
 * When editor is in run mode a menu screen will appear. (screen-cap for the same added above)
 * User have to choose a option for changing its current mode to the following mode
@@ -150,10 +151,11 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 |check_for_misspells(char* word)             | O(N*M)            | O(N*26)             |
 |delete()          | O(1)            | O(1)             
 
-<br/>
+
 
 >M is maximum size of word.
-<br/>
+
+
 ---------------------------------------
 
 ## Learning Outcomes:
