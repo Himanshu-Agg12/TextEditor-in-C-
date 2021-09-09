@@ -23,10 +23,9 @@ Spell checking is the *caractéristique principale* of DevPad.
 <details>
 
 <summary><small>Screencaps of the completed app will be added soon!</small></summary>
-
-<img  src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png"
-alt = "Menu"
-width="400px"  height="300px"/>
+<span>
+![Menu](https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png "Menu")	
+</span>
 
 </details>
 
