@@ -23,8 +23,28 @@ Spell checking is the *caractéristique principale* of DevPad.
 <details>
 
 <summary><small>Screencaps of the completed app will be added soon!</small></summary>
+
 <span>
-![Menu](https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png "Menu")	
+
+* Menu
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/Menu.png"/>
+* Write Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/write-mode.png"/>
+* Read Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/read-mode.png"/>
+* Append Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/append-mode.png"/>
+* Check Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/check-mode.png"/>
+* Delete Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/delete-mode.png"/>
+* List Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/list-mode.png"/>
+* PWD - Mode
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/pwd-mode.png"/>
+* Logs - Demo
+<img src="https://github.com/Himanshu-Agg12/TextEditor-in-C-/blob/main/ScreenShots/log-file.png"/>
+
 </span>
 
 </details>
@@ -77,20 +97,19 @@ Run the following commands to use *DevPad.*
    make clean
    ```
 
-Now you will see your executable file in the same client with name ***editor***.
+	Now you will see your executable file in the same client with name ***editor***.
 
 #### Execution
  
 Run the editor using:
-   ```C
-   ./editor
-   ```
+```C
+./editor
+```
     
 A Menu screen will appear.
 
 ---------------------------------------
-
-## How to use DevPad ?
+## How to use ?
 
 * When editor is in run mode a menu screen will appear. (screen-cap for the same added above)
 * User have to choose a option for changing its current mode to the following mode
@@ -128,7 +147,7 @@ A Menu screen will appear.
    or
    filename_yymmdd_HHMMSS.txt
    
- >Screenshot of the Check Mode added in Preview
+  >Screenshot of the Check Mode added in Preview
  
 Moreover all the modes are self descriptive in itself, further it you need more help you can read description of each mode described in the Instructions file.
 
@@ -144,13 +163,10 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 |check_for_misspells(char* word)             | O(N*M)            | O(N*26)             |
 |delete()          | O(1)            | O(1)             
 
-
-
 >M is maximum size of word.
 
 
 ---------------------------------------
-
 
 ## Learning Outcomes:
 
@@ -168,7 +184,7 @@ Some technical skills that will definitely be improved are:
 
 ---------------------------------------
 
-## Further features to add:
+## Further features to add :
 
 The main feature of Spell checking feels like a colossal task to implement right now but some additions regarding:
 * **Encoding/Decoding** 
