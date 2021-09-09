@@ -135,7 +135,7 @@ A Menu screen will appear.
    or
    filename_yymmdd_HHMMSS.txt
    
-  >Screenshot of the Check Mode added in Preview
+ >Screenshot of the Check Mode added in Preview
  
 Moreover all the modes are self descriptive in itself, further it you need more help you can read description of each mode described in the Instructions file.
 
@@ -157,6 +157,7 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 
 
 ---------------------------------------
+
 
 ## Learning Outcomes:
 
