@@ -53,11 +53,11 @@ Finding and implementing this efficient algorithm is the main goal of this proje
 
 The final product will be neat and user-friendly along with good code readability. Some key design/functionality elements that will be present are listed as follows:
 
-* ***A Menu Screen***
+* **A Menu Screen**
 
-* ***Events bound to Keys, for eg - pressing *'r'* opens file in read mode.***
+* **Events bound to Keys, for eg - pressing *'r'* opens file in read mode.**
 
-* ***File opened in spell check mode won't be revised, just the words with wrong spelling will be highlighted and stored in a log file.***
+* **File opened in spell check mode won't be revised, just the words with wrong spelling will be highlighted and stored in a log file.**
 
 ---------------------------------------
 ## Installation
@@ -84,17 +84,61 @@ Run the following commands to use *DevPad.*
    make clean
    ```
 
-Now you will see your executable file in the same client with name ***'editor ' .***
+	Now you will see your executable file in the same client with name ***editor***.
 
-#### Execution 
+#### Execution
+ 
 Run the editor using:
 ```C
 ./editor
 ```
+    
 A Menu screen will appear.
 
 ---------------------------------------
+## How to use ?
 
+* When editor is in run mode a menu screen will appear. (screen-cap for the same added above)
+* User have to choose a option for changing its current mode to the following mode
+	* 'r' for read mode
+	* 'w' for write mode
+	* 'a' for append mode
+	* 'd' for delete mode
+	* 'l' for list all the folder/files.
+	* 'p' for print working directory
+	* 'c' for Checking spellings of each words of file
+* After selecting any mode a prompt appear to enter the name of the desired file.
+
+#### Read Mode 
+   Entered file will be read if file exist else an error message appears.
+ >Screenshot of the read mode added in Preview
+#### Write Mode
+   File will open for write, remember if file already exist it will be overwritten.
+   Save the file by pressing ' : + *enter-key*'.
+ >Screenshot of the write mode added in Preview
+#### Append Mode
+   File will open in append mode, user can add text and save the file by pressing ' : +    *enter-key*'.
+ >Screenshot of the append mode added in Preview
+#### Check Mode
+   Entered File will be checked and a logs file will be generated in the ***Logs*** folder it       will tell the user in which ***Line*** and which ***Word*** is incorrect so that user can make correction easily.
+   
+ After Checking of the file user will see the **Time** information(in micro-seconds) such as :
+ 
+* Loading of dictionary.
+* Checking the file.
+* Average time to check file.
+* Unloading the dictionary.
+
+   ##### Format of log file:
+   filename_date_time.txt
+   or
+   filename_yymmdd_HHMMSS.txt
+   
+  >Screenshot of the Check Mode added in Preview
+ 
+Moreover all the modes are self descriptive in itself, further it you need more help you can read description of each mode described in the Instructions file.
+
+---------------------------------------
 
 ## Learning Outcomes:
 
@@ -114,6 +158,11 @@ Some technical skills that will definitely be improved are:
 
 ## Further features to add:
 
-The main feature of Spell checking feels like a collosal task to implement right now but some additions regarding **Encoding/Decoding** can still be implemented in this project. Since I am not completely equipped with required knowledge on this topic, it can be put up on my to-do list which will be dealt with on some future date.
+The main feature of Spell checking feels like a colossal task to implement right now but some additions regarding:
+* **Encoding/Decoding** 
+* **Auto-Correct**
+* **Working at the directory level.**
+
+These can still be implemented in this project. Since I am not completely equipped with required knowledge on this topic, it can be put up on my to-do list which will be dealt with on some future date.
 
 ---------------------------------------
