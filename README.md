@@ -182,14 +182,14 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 ### Time-Complexity and Space-complexity of Some functions:
 |                  Functions                 | Time Complexity | Space Complexity |
 |--------------------------------------------|-----------------|------------------|
-|load_dictionary()               | O(n)            | O(N*26)             |
-|read() | O(n)            | O(1)             |
-|write() | O(1)            | O(n)             |
-|append()            | O(n)            | O(1)             |
-|check_for_misspells(char* word)             | O(M)            | O(n)             |
+|load_dictionary()               | O(N*M)            | O(N*K)             |
+|read() | O(N)            | O(1)             |
+|write() | O(N)            | O(1)             |
+|append()            | O(N)            | O(1)             |
+|check_for_misspells(char* word)             | O(N*M)            | O(N)             |
 |delete()          | O(1)            | O(1)             
 
->M is maximum length of word/string.      
+>M is maximum length of word/string.(maximum: 45)      
 >For each node N, K is the number of childrens.
 
 
