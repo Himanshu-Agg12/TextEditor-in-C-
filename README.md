@@ -189,7 +189,7 @@ Moreover all the modes are self descriptive in itself, further it you need more 
 |check_for_misspells(char* word)             | O(M)            | O(n)             |
 |delete()          | O(1)            | O(1)             
 
->M is maximum length of word/string.
+>M is maximum length of word/string.      
 >For each node N, K is the number of childrens.
 
 
